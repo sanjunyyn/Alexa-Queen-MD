@@ -19,10 +19,10 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦CYBERXKID'
+global.owner = ['27686881509']
+global.premium = ['27686881509']
+global.ownernomer = '27686881509'
+global.ownername = '🧚CYBERXKID'
 global.botname = 'ALEXA-QUEEN'
 global.footer = '©CYBERXKIDnc.'
 global.ig = 'https://github.com/CYBERXKID'
@@ -30,7 +30,7 @@ global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/Alexa-Queen-MD'
 global.myweb = 'https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg'
 global.packname = 'ALEXA-QUEEN'
-global.author = '🐦cyberxkid'
+global.author = '🧚cyberxkid'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
