@@ -1,1 +1,74 @@
- Alexa-Queen-MD
+
+
+<img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
+</p>
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F5000&lines=WELCOME+TO+ALEXA-QUEEN+WA+BOT...;CREATED+BY+CYBER+KIDD...;THIS+IS+AN+MD+BOT...;WITH+MORE+FEATURES...)](https://git.io/typing-svg)
+
+<div align="center">
+  <img border-radius: 15px src="https://te.legra.ph/file/aaeedc5cc365be576c9d3.jpg/Alexaqueen.png" width="400" height="400"/>
+  <p align="center">
+<a href="#"><img title="Alexa-Queen-MD" src="https://img.shields.io/badge/Alexa-Queen-MD-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+  <p align="center">
+<a href="https://github.com/CYBERXKID"><img title="Author" src="https://img.shields.io/badge/Author-Cyberxkid-/Alexa-Queen-MD?color=blue&style=for-the-badge&logo=whatsapp"></a>
+</p>
+</div>
+<p align="center">
+PROJECT CREATED BY <a href="https://github.com/CYBERXKID">CYBERXKID</a> TO MAKE IT PUBLIC
+    <br>
+       | © |
+        Reserved |
+    <br> 
+</p>
+<img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
+</p>
+
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/CYBERXKID/Alexa-Queen-MD&title=Alexa-Queen-MD%20Views)
+
+### 💋TOTAL REPO VIEWS💋
+![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
+ 
+
+<div align="center">
+
+   👅SIMPLE METHOD👅
+ 
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Cyberm/QueenAlexaQrCode)
+  
+╭─ ❑「 DEPLOYING BUTTON」❑──
+
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CYBERXKID/Alexa-Queen-MD)
+
+
+----
+
+  <p align="center">
+  <a href="httsp://github.com/CYBERXKID/Alexa-Queen-MD">
+    
+<a href="https://github.com/farhan-dqz/followers">
+<img src="https://img.shields.io/github/repo-size/farhan-dqz/Julie-Mwol?color=green&label=Repo%20total%20size&style=plastic">
+<p align="center">
+<a href="https://github.com/CYBERXKID/followers"
+<img title="Followers" src="https://img.shields.io/github/followers/CYBERXKID?color=blue&style=flat-square"></a>
+<a href="https://github.com/CYBERXKID/Alexa-Queen-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/CYBERXKID/Alexa-Queen-MD?color=blue&style=flat-trangle"></a>
+<a href="https://github.com/CYBERXKID/Alexa-Queen-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/CYBERXKID/Alexa-Queen-MD?color=blue&style=flat-trangle"></a>
+</p>
+
+[💻Alexa Queen is an MDBot for WhatsApp That allowing you to get done so many tasks.
+The user is responsible for all possible consequences of misuse.
+This is not a Open-Source project. This is just a project that allow you to get deploy a bot.
+Additionally, it enables plug-in support for users.
+Install their own plugins to the original software and use as they please.
+Usage is entirely the responsibility of the user. The operating system is not responsible.
+THANK YOU!🙏]
+
+
+**[![CYBERX-KIDD](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/27686881509?text=Can%20you%20help%20bro)**
+
+
+## License
+This project is protected by `GNU General Public Licence v3.0` license.
+
+### Disclaimer
+`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
