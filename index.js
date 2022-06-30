@@ -57,7 +57,7 @@ if (global.db) setInterval(async () => {
   }, 30 * 1000)
 
 async function startGojoMdNx() {
-    const GojoMdNx = NexusNwIncConnect({
+    const GojoMdNx = CYBERXKIDIncConnect({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
         browser: ['Gojo Satoru\Nexus','Safari','1.0.0'],
