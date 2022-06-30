@@ -59,11 +59,4 @@ Usage is entirely the responsibility of the user. The operating system is not re
 THANK YOU!🙏]
 
 
-**[![CYBERX-KIDD](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/27686881509?text=Can%20you%20help%20bro)**
-
-
-## License
-This project is protected by `GNU General Public Licence v3.0` license.
-
-### Disclaimer
-`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
+**[![CYBERX-KIDD](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/27686881509?text=Can%20you%20help%20bro)*
